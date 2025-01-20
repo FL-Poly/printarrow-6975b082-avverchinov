@@ -5,7 +5,7 @@ int main(void) {
 	int headInt;
 
 	puts("Enter the number for arrow body:");
-	scanf("%d", &baseInt);
+	scanf("%d", &headInt);
 	puts("Enter the number for arrow head:");
 	scanf("%d", &headInt);
 
